@@ -25,8 +25,13 @@ IyoNie v2.0 Live adalah asisten AI secara langsung berkomunikasi dengan alat unt
 ```
 
 # IyoNie Sistem
-> Halaman Portal = {Berfungsi untuk mengatur setup awal, Jika semua terkoneksi dengan benar maka akan masuk ke Halaman kontrol}
-> Halaman Kontrol = {Adalah pengaturan pendukung, terdapat inputan untuk membuat pertanyaan, gulir/scroll up/down, Bersihkan & Ulangi dan Factory Reset/Kembali ke setelan awal}
+if (Halaman Portal) {
+>Berfungsi untuk mengatur setup awal, Jika semua terkoneksi dengan benar maka akan masuk ke Halaman kontrol
+
+} else if (Halaman Kontrol) {
+>Adalah pengaturan pendukung, terdapat inputan untuk membuat pertanyaan, gulir/scroll up/down, Bersihkan & Ulangi dan Factory Reset/Kembali ke setelan awal
+
+}
 
 # Instalasi firmware
 [Klik Saya](mailto:iyortml@gmail.com)
