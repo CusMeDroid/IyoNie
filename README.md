@@ -1,4 +1,4 @@
-IyoNie v2.0 Live adalah asisten AI secara langsung berkomunikasi dengan alat untuk menjawab pertanyaan dari pengguna, yang dikembangkan oleh Suryo Dwijayanto.
+IyoNie v2.0 Live adalah asisten AI secara langsung berkomunikasi dengan alat untuk menjawab pertanyaan dari pengguna dengan tekan tombol touch pengguna akan mendapat jawaban dari IyoNie tentang humidity dan temperature (AI Thingking), pengguna juga dapat memasukan pertanyaan pada halaman kontrol.
 
 # Instalasi Papan
 [<img alt="LuckNet Reference Board Manage" title="LuckNet Reference Board Manage" width="50%" src="https://raw.githubusercontent.com/CusMeDroid/IyoNie/refs/heads/main/IyoNie-v2-0.png" />](https://raw.githubusercontent.com/CusMeDroid/IyoNie/refs/heads/main/IyoNie-v2-0.png)
