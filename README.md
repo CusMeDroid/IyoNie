@@ -37,8 +37,19 @@ if (Halaman Portal) {
 
 }
 
+# Otak IyoNie
+1. Membutuhkan jaringan/koneksi data (WAJIB)
+2. Nama AI sudah di tetapkan (IyoNie)
+3. Membantu dalam hal percakapan (Positif)
+4. Tidak ada jawaban untuk perihal judi dan kekerasan/penindasan!
+5. Kesadaran dengan tanggal dan waktu realtime
+dll.
+
 # Instalasi firmware
 [Klik Saya](mailto:iyortml@gmail.com)
+
+# Catat!
+> Firmware tidak untuk diperjual belikan kembali atau diproduksi dalam jumlah banyak untuk di perdagangkan, bukan source code yang diberikan, jadi jangan pernah membahas/meminta kode mentah! Peraturan ini sudah ditetapkan. Kami hanya akan mengajarkan dan memberikan firmware secara online, dan juga untuk perakitan atau penginstalan firmware sampai IyoNie dapat dijalankan (termasuk standar penggunaan).
 
 # Rilis
 2025 - SURYO DWIJAYANTO
