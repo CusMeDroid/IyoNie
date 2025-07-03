@@ -43,6 +43,7 @@ if (Halaman Portal) {
 3. Membantu dalam hal percakapan (Positif)
 4. Tidak ada jawaban untuk perihal judi dan kekerasan/penindasan!
 5. Kesadaran dengan tanggal dan waktu realtime
+
 dll.
 
 # Instalasi firmware
