@@ -49,6 +49,27 @@ dll.
 # Instalasi firmware
 [Klik Saya](mailto:iyortml@gmail.com)
 
+# Driver
+Pastikan anda sudah menginstal driver [CH304](https://www.wemos.cc/en/latest/ch340_driver.html) di komputer anda.
+
+# Pasang
+```
+  Flash
+  Buka esp8266flasher.exe
+  ----------------------------
+  Advanced
+  115200
+  4Mb
+  80Mhz
+  DOUT
+  ----------------------------
+  Config
+  Dir Your_Local_Pc/IyoNie-v2.bin    |    0x00000
+  ----------------------------
+  Operation
+  Your Port Ex.COM1 ---> Flash(F)
+```
+
 # Catat!
 > Firmware tidak untuk diperjual belikan kembali atau diproduksi dalam jumlah banyak untuk di perdagangkan, bukan source code yang diberikan, jadi jangan pernah membahas/meminta kode mentah! Peraturan ini sudah ditetapkan. Kami hanya akan mengajarkan dan memberikan firmware secara online, dan juga untuk perakitan atau penginstalan firmware sampai IyoNie dapat dijalankan (termasuk standar penggunaan).
 
